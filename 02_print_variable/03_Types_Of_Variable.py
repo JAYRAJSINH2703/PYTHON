@@ -25,6 +25,7 @@ print("Types Of Variable In Python")
 
 Name="Jayrajsinh"
 print(Name)
+print(type(Name))
 
 # 2. Integer Variable
 
@@ -32,6 +33,7 @@ print(Name)
 
 Age=17
 print(Age)
+print(type(Age))
 
 # 3. Float Variable 
 
@@ -39,6 +41,7 @@ print(Age)
 
 Height=174.89
 print("My height is:",Height)
+print(type(Height))
 
 
 # 4. Boolean Variable 
@@ -47,9 +50,11 @@ print("My height is:",Height)
 
 
 Age=17
-print(Age > 18) 
+print(Age > 17) 
 
 print(Age >= 17)
+
+print(type(Age))
 
 
 # 5. List Variable 
@@ -63,6 +68,7 @@ print(Age >= 17)
 Fruits=['Mango','banana','Grapes','Apple']
 Fruits[0]='watermelon'
 print(Fruits)
+print(type(Fruits))
 
 
 # 6. Tuple Variable
@@ -75,6 +81,7 @@ print(Fruits)
 
 Fruits=('Mango','Banana','Grapes','Apple')
 print(Fruits)
+print(type(Fruits))
 
 
 
