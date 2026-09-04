@@ -19,34 +19,34 @@ print("Types Of Variable In Python")
 # 4. In a Variable name Special Character not allowed like @, #, $, %, ^, &, *, +, =, /, \, |, ~, `, <, > except _ (underscore)
 
 
-# Now the Type Of Variable
+# Now the Data Type of Variable in Python
 
-# 1. String Variable 
+# 1. String Data Type
 
 Name="Jayrajsinh"
 print(Name)
 print(type(Name))
 
-# 2. Integer Variable
+# 2. Integer Data Type
 
-#This Variable is used to store whole number value (Purnank)
+#This Data Type is used to store whole number value (Purnank)
 
 Age=17
 print(Age)
 print(type(Age))
 
-# 3. Float Variable 
+# 3. Float Data Type
 
-#This Variable is used to store Decimal Number value (Apurnank)
+#This Data Type is used to store Decimal Number value (Apurnank)
 
 Height=174.89
 print("My height is:",Height)
 print(type(Height))
 
 
-# 4. Boolean Variable 
+# 4. Boolean Data Type
 
-# This Variable is used to show Condition like True or False
+# This Data Type is used to show Condition like True or False
 
 
 Age=17
@@ -57,13 +57,13 @@ print(Age >= 17)
 print(type(Age))
 
 
-# 5. List Variable 
+# 5. List Data Type
 
-# In This Variable we use this []
+# In This Data Type we use this []
 
-# This Variable is used to store multiple Value in a single variable
+# This Data Type is used to store multiple Value in a single variable
 
-# In This Variable we can change or add or remove the value from the list 
+# In This Data Type we can change or add or remove the value from the list 
 
 Fruits=['Mango','banana','Grapes','Apple']
 Fruits[0]='watermelon'
@@ -71,13 +71,13 @@ print(Fruits)
 print(type(Fruits))
 
 
-# 6. Tuple Variable
+# 6. Tuple Data Type
 
-# In This Variable we use this ()
+# In This Data Type we use this ()
 
-# This Varible is used to store multiple value in a single variable
+# This Data Type is used to store multiple value in a single variable
 
-# In This Variable we can't change or add or remove the value from the list
+# In This Data Type we can't change or add or remove the value from the list
 
 Fruits=('Mango','Banana','Grapes','Apple')
 print(Fruits)
