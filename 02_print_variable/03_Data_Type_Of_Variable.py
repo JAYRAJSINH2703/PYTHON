@@ -27,6 +27,13 @@ Name="Jayrajsinh"
 print(Name)
 print(type(Name))
 
+
+Movie="Bahubali"
+print("Movie:",Movie)
+
+Game="Free Fire"
+print("Game:",Game)
+
 # 2. Integer Data Type
 
 #This Data Type is used to store whole number value (Purnank)
@@ -34,6 +41,13 @@ print(type(Name))
 Age=17
 print(Age)
 print(type(Age))
+
+birth_date=27
+print("Birthdate:",birth_date)
+
+birth_month=1
+print("Birthmonth:",birth_month)
+
 
 # 3. Float Data Type
 
@@ -43,6 +57,11 @@ Height=174.89
 print("My height is:",Height)
 print(type(Height))
 
+Weight=72.8
+print("Weight:",Weight)
+
+width=66.66
+print("width:",width)
 
 # 4. Boolean Data Type
 
@@ -54,9 +73,15 @@ print(Age > 17)
 
 print(Age >= 17)
 
-print(type(Age))
 
 
+is_student=True
+is_teacher=False
+
+print("is student pass?",is_student)
+print("is teacher help?",is_teacher)
+print(type(is_teacher))
+print(type(is_student))
 # 5. List Data Type
 
 # In This Data Type we use this []
@@ -70,6 +95,12 @@ Fruits[0]='watermelon'
 print(Fruits)
 print(type(Fruits))
 
+Vegetables=['cucumber','carrot','tomato']
+print("vegetables",Vegetables)
+
+Choclate=['Dairymilk','Kitkat','Milkbar']
+print("Choclates",Choclate)
+
 
 # 6. Tuple Data Type
 
@@ -82,6 +113,15 @@ print(type(Fruits))
 Fruits=('Mango','Banana','Grapes','Apple')
 print(Fruits)
 print(type(Fruits))
+
+
+
+Icecream=("Kaju kasata","American Nuts","Kesar Pista")
+print("Icecream",Icecream)
+
+Laptop=("Asus","Macbook","HP")
+print("Laptop",Laptop)
+
 
 
 
