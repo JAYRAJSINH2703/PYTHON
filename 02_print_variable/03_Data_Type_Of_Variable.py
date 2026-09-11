@@ -123,7 +123,63 @@ Laptop=("Asus","Macbook","HP")
 print("Laptop",Laptop)
 
 
+# 7 . Set Data Type 
+
+#  This Data Type is used to store multiple value in asingle variable 
+
+#  In This Data Type We can change or add the value from the set 
+
+#  In this data type we use this {}
+
+#  In this data type Same Value can't repeat 
+
+age={17,18,18,19,20}
+print("Student Age:",age)
+print(type(age))
+
+Branch_code={123,124,125,123,126}
+print("Brach Code",Branch_code)
+
+Prime_Number={2,3,5,7,11}
+print("Prime Number",Prime_Number)
 
 
+# 8. Dictionary Data Type
+
+# In this data type used to store in key-value pairs
+
+# In this data type we used {}
+
+# In this data type each key is unique ad used to access its corresponding value
 
 
+Student={
+   "Name":"Jayrajsinh",
+   "Age" :17,
+   "cource":"Career X Ai"
+}
+print(Student)
+print(type(Student))
+
+Sir={
+    "Name":"Ram",
+    "Age": 25,
+    "School":"SSCCS"
+}
+print(Sir)
+
+Madam={
+    "Name":"Sanjnaba",
+    "Age": 22,
+    "Collage":"SSCCS"
+}
+print(Madam)
+
+
+# 9. None Data Type 
+
+# This Data type is used when a vairable doesn't have any value
+
+Neev=None
+print(Neev)
+print(type(Neev))
