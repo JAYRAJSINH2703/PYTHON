@@ -76,3 +76,18 @@
 
 # ==  this is used for the comparison 
 
+
+# This Operator is used for the give mathmetical operation without giving the value
+
+# there are 7 Types 
+
+
+# a. Addition or Assign (+=)
+# b. Substraction or Assign (-=)
+# c. Multiplication or Assign (*=)
+# d. Division or Assign (/=)
+# e. Floor division or Assign (//=)
+# f. Modulus or Assign (%=)
+# g. Exponanition or Assign(**=)
+
+
