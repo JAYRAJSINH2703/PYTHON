@@ -77,7 +77,7 @@
 # ==  this is used for the comparison 
 
 
-# This Operator is used for the give mathmetical operation without giving the value
+
 
 # there are 7 Types 
 
